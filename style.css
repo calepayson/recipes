@@ -1,6 +1,7 @@
 body {
   background-color: #2B2A33;
   color: #F0F0F4;
+  text-align: center;
 }
 
 a {
@@ -9,4 +10,22 @@ a {
 
 a:visited {
   color: lightblue;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 600px;
+  margin: auto;
+}
+
+h2, p, ul, ol {
+  text-align: left;
 }
